@@ -1,0 +1,4 @@
+JSX is a syntax extension to JavaScript. React recommends using it to describe what the UI should look like. JSX may remind you of a template language, but it comes with the full power of JavaScript. JSX basically produces React “elements”.
+## What is JSX Interpolation?
+
+In React, JSX Interpolation is the process of embedding JavaScript expressions into JSX. This is done by wrapping the expression in curly braces `{}`. It allows you to dynamically insert values into your JSX.
